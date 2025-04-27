@@ -25,6 +25,10 @@ Especialista em HTML, CSS, JavaScript, Typescript, React, PHP, Python, Pandas e 
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23007ACC.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
+---
+
+📬 Let's Connect!
+<p align="center"> <a href="https://www.instagram.com/eliaswebdesigner" target="_blank"> <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/eliasgomesdeveloper" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:eliasgdeveloper@gmail.com" target="_blank"> <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://wa.me/5532998369193" target="_blank"> <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a> <a href="https://www.superprof.com.br/promocao-curso-javascript-aluno-por-aula-basico-avancado-front-end-back-end-ensino-passo-passo.html" target="_blank"> <img alt="Superprof" src="https://img.shields.io/badge/Superprof-FF4081?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> </p>
 
 ---
 
